@@ -8,4 +8,4 @@ Mais informações no [Relatório](https://github.com/areasflavio/YourCoffe/blob
 
 Desenvolvido por  [Flávio Arêas](http://www.linkedin.com/in/areasflavio)
 
-Os professores responsáveis pela disciplina foram o professor [Otávio Gomes](https://www.linkedin.com/in/otaviogomes/) e o professor [Rodrigo Almeida](https://www.linkedin.com/in/rmaalmeida/)
+Os professores responsáveis pela disciplina foram o professor [Otávio Gomes](https://www.linkedin.com/in/otavio-gomes/) e o professor [Rodrigo Almeida](https://www.linkedin.com/in/rmaalmeida/)
